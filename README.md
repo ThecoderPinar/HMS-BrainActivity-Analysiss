@@ -120,7 +120,7 @@ Navigate to the output directories:
 
 Explore the analysis and visualization of harmful brain activity in the following Jupyter Notebook:
 
-- [`hms-eda-harmful-brain-activity.ipynb`](notebooks/hms-eda-harmful-brain-activity.ipynb)
+- [`https://github.com/ThecoderPinar/HMS-BrainActivity-Analysiss/blob/main/notebook/hms-eda-harmful-brain-activity.ipynb`](https://github.com/ThecoderPinar/HMS-BrainActivity-Analysiss/blob/main/notebook/hms-eda-harmful-brain-activity.ipynb)
 
 Feel free to open the notebook to dive into the details of our exploratory data analysis journey! 🧠📊
 
