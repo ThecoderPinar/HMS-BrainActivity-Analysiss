@@ -177,9 +177,9 @@ Distributed under the [Apache License 2.0](LICENSE). See `LICENSE` for more info
 
 If you want to reach out, feel free to contact me:
 
-Your Name - [Your Email](mailto:your.email@example.com)
+Pınar Topuz - [piinartp@gmail.com](mailto:piinartp@gmail.com)
 
-Project Link: [https://github.com/yourusername/yourrepository](https://github.com/QMindSolutions/HMS-BrainActivity-Analysis)
+Project Link: [https://github.com/QMindSolutions/HMS-BrainActivity-Analysis](https://github.com/QMindSolutions/HMS-BrainActivity-Analysis)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
