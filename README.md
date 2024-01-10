@@ -114,7 +114,7 @@ Navigate to the output directories:
 - [ ]  ├── out_image/
 - [ ]  └── out_audio/
 
-<!-- 📓 Notebooks -->
+<!-- 📓 Notebook -->
 ## 📓 Notebook
 
 Explore the analysis and visualization of harmful brain activity in the following Jupyter Notebook:
