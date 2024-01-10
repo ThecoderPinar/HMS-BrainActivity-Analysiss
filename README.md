@@ -87,7 +87,7 @@ Welcome to the usage section! Here, you'll find examples and code snippets to he
 Navigate to the `📓 notebooks` directory to find Jupyter notebooks for in-depth data analysis and visualization.
 
 ```bash
-cd notebooks/
+cd notebook/
 jupyter notebook
   ```
 ### 2. Exploring EEG Data
@@ -115,7 +115,7 @@ Navigate to the output directories:
 - [ ]  └── out_audio/
 
 <!-- 📓 Notebooks -->
-## 📓 Notebooks
+## 📓 Notebook
 
 Explore the analysis and visualization of harmful brain activity in the following Jupyter Notebook:
 
