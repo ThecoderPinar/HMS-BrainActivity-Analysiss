@@ -5,7 +5,7 @@
   <p align="center">
     A comprehensive exploration into neurocritical care using EEG data analysis.
     <br />
-    <a href="https://github.com/QMindSolutions/HMS-BrainActivity-Analysis"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/QMindSolutions/HMS-BrainActivity-Analysis/blob/main/docs/hms-eda-harmful-brain-activity.pdf"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/QMindSolutions/HMS-BrainActivity-Analysis">View Demo</a>
