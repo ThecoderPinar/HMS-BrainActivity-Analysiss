@@ -70,13 +70,12 @@ To get a local copy up and running follow these simple steps.
 
 This is an example of how to list things you need to use the software and how to install them.
 
-### Installation
+## Installation
+Clone the repository 🚀
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/yourusername/yourrepository.git
-
-
+```bash
+git clone https://github.com/ThecoderPinar/HMS-BrainActivity-Analysiss.git
+```
 
 <!-- 🚀 Usage -->
 ## 🚀 Usage
