@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="logo.png" alt="Logo" width="80" height="80">
+  <img src="https://img.mit.edu/files/images/202211/MIT-Neural-Networks-SL.gif" alt="Logo" width="700" height="400">
   <h3 align="center">🌩️ HMS - Exploratory Data Analysis and Journey in Neurocritical Care 🌍</h3>
   <p align="center">
     A comprehensive exploration into neurocritical care using EEG data analysis.
